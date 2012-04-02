@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from setuptools import setup, find_packages
 import sys, os
 
@@ -18,9 +19,13 @@ Código-fonte para o site bikespots.com.br""",
       include_package_data=True,
       zip_safe=True,
       install_requires=[
-          # -*- Extra requirements: -*-
+          'Cython',
+          'Kivy',
+          'tornado',
       ],
       entry_points="""
       # -*- Entry points: -*-
       """,
-      )
+      test_suite="nose.collector",
+      tests_require="nose",
+)
