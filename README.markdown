@@ -8,8 +8,10 @@ Esta aplicação enviará pontos de passagem dos ciclistas enquanto eles pedalam
 os pontos de localização.
 
 Após agregar estes dados, será gerado um mapa com áreas de maior circulação de ciclistas; O intuito é que estas
-informações sejam úteis aos órgãos públicos para incentivar a construção de mais ciclovias pela cidade, bem como tentar
-melhorar a visibilidade que eles têm sobre o quanto o uso das vias públicas vem crescendo entre ciclistas.
+informações sejam úteis aos órgãos públicos para incentivar a construção de mais ciclovias pelas cidades, bem como
+tentar melhorar a visibilidade que eles têm sobre o quanto o uso das vias públicas vem crescendo entre ciclistas.
+
+Pensei em iniciar o serviço em São Paulo, mas nada impede que seja usado em outras cidades, também.
 
 ## Sobre custos e gastos
 * Quanto dinheiro será pago aos envolvidos?
@@ -26,3 +28,6 @@ o uso do seu conhecimento na sua área, será uma ajuda gigantesca. :-)
 ## Licença do código
 Este código é totalmente aberto, faça o que quiser dele - contanto que respeite a licença, BSD de 2 cláusulas, descrita
 no arquivo 'LICENSE'
+
+## Envolvidos
+* Diogo Baeder - desenvolvedor e líder do projeto
