@@ -1,7 +1,6 @@
 # bikespots.com.br
 Este é o código-fonte para o site http://www.bikespots.com.br .
-O intuito é que o site seja de uso totalmente gratuito, e que o código-fonte seja de código aberto (licença BSD de
-2 cláusulas).
+O intuito é que o site e a aplicação mobile sejam de uso totalmente gratuito, e que sejam de código aberto.
 
 ## Motivação
 A ideia do site é que ele sirva como serviço para a aplicação móvel a ser instalada em dispositivos móveis de ciclistas;
@@ -23,3 +22,7 @@ melhorar a visibilidade que eles têm sobre o quanto o uso das vias públicas ve
 ## Como se envolver
 De qualquer forma que você achar que for útil ao projeto. Se você é desenvolvedor ou designer, e quiser participar com
 o uso do seu conhecimento na sua área, será uma ajuda gigantesca. :-)
+
+## Licença do código
+Este código é totalmente aberto, faça o que quiser dele - contanto que respeite a licença, BSD de 2 cláusulas, descrita
+no arquivo 'LICENSE'
