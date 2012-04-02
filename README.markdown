@@ -15,11 +15,11 @@ Pensei em iniciar o serviço em São Paulo, mas nada impede que seja usado em ou
 
 ## Sobre custos e gastos
 * Quanto dinheiro será pago aos envolvidos?
-** Nenhum, pelo menos a princípio. Este é um trabalho voluntário, feito com a intenção de melhorar nossa qualidade de
- * vida, e nossa circulação pela cidade.
+ * Nenhum, pelo menos a princípio. Este é um trabalho voluntário, feito com a intenção de melhorar nossa qualidade de
+   vida, e nossa circulação pela cidade.
 * Quanto dinheiro será gasto?
-** Ainda não sei. Até agora gastei meros R$ 30,00 para registrar o domínio, e hospedarei o site na Amazon para tentar
- * manter os gastos baixos. Daqui a um tempo, se esta iniciativa ganhar impulso, pretendo buscar doação de hospedagem.
+ * Ainda não sei. Até agora gastei meros R$ 30,00 para registrar o domínio, e hospedarei o site na Amazon para tentar
+   manter os gastos baixos. Daqui a um tempo, se esta iniciativa ganhar impulso, pretendo buscar doação de hospedagem.
 
 ## Como se envolver
 De qualquer forma que você achar que for útil ao projeto. Se você é desenvolvedor ou designer, e quiser participar com
